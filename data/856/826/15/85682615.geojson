@@ -29,7 +29,7 @@
     "geom:longitude":-2.720529,
     "iso:country":"ES",
     "label:eng_x_preferred_longname":[
-        "Albacete Province"
+        "\u00c1lava Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
@@ -100,8 +100,17 @@
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03bc\u03c0\u03b1\u03b8\u03ad\u03c4\u03b5"
     ],
+    "name:eng_x_colloquial":[
+        "\u00c1lava"
+    ],
+    "name:eng_x_historical":[
+        "\u00c1lava"
+    ],
     "name:eng_x_preferred":[
-        "Albacete"
+        "\u00c1lava"
+    ],
+    "name:eng_x_unknown":[
+        "\u00c1lava"
     ],
     "name:eng_x_variant":[
         "Araba / \u00c1lava",
@@ -393,8 +402,8 @@
         "eus",
         "ast"
     ],
-    "wof:lastmodified":1696639333,
-    "wof:name":"Albacete",
+    "wof:lastmodified":1710231162,
+    "wof:name":"\u00c1lava",
     "wof:parent_id":404227393,
     "wof:placetype":"region",
     "wof:population":329798,
