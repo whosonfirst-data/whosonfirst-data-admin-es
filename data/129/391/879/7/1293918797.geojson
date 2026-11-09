@@ -51,7 +51,7 @@
         "wk:page":"Junguitu"
     },
     "wof:country":"ES",
-    "wof:geomhash":"e36a797115c1774c2ebe5a9346b66664",
+    "wof:geomhash":"8b5644557e14b9c5d5f503e02f4656aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -2.59501,
     42.87269000000001
 ],
-  "geometry": {"coordinates":[-2.59501,42.87269000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.59501,42.87269],"type":"Point"}
 }

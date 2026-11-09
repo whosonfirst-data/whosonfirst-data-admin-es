@@ -65,7 +65,7 @@
         "wk:page":"Las_Torres_de_Cotillas"
     },
     "wof:country":"ES",
-    "wof:geomhash":"f5a96471215d0b6fbf8e82cf8a3221d3",
+    "wof:geomhash":"0e3984b123905f0e7d8a8cd90ecdbccf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     -1.24188,
     38.02822000000001
 ],
-  "geometry": {"coordinates":[-1.24188,38.02822000000001],"type":"Point"}
+  "geometry": {"coordinates":[-1.24188,38.02822],"type":"Point"}
 }

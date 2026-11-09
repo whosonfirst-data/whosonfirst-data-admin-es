@@ -57,7 +57,7 @@
         "wk:page":"Argame"
     },
     "wof:country":"ES",
-    "wof:geomhash":"c766c1516b6248513a1490a23ebbca68",
+    "wof:geomhash":"109337e3649fd316ef7bf2f6c52d5c0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     -5.88415,
     43.30034000000001
 ],
-  "geometry": {"coordinates":[-5.88415,43.30034000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.88415,43.30034],"type":"Point"}
 }

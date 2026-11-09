@@ -60,7 +60,7 @@
     },
     "wof:country":"ES",
     "wof:created":1497298356,
-    "wof:geomhash":"b3a7a9f249b90d201555f61fe135ce22",
+    "wof:geomhash":"5b3954700e3322cfac565ab74e028a08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     -3.791184,
     40.4323585
 ],
-  "geometry": {"coordinates":[-3.791184,40.4323585],"type":"Point"}
+  "geometry": {"coordinates":[-3.791184,40.432359],"type":"Point"}
 }

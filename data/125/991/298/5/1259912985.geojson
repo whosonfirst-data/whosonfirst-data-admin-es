@@ -74,7 +74,7 @@
         "wk:page":"Los_Llanos_de_Aridane"
     },
     "wof:country":"ES",
-    "wof:geomhash":"47437b8b59f97491be2f89fdd3e51e07",
+    "wof:geomhash":"af47406f06db70f71d27a54cc952f5c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     -17.91821000000001,
     28.65851
 ],
-  "geometry": {"coordinates":[-17.91821000000001,28.65851],"type":"Point"}
+  "geometry": {"coordinates":[-17.91821,28.65851],"type":"Point"}
 }

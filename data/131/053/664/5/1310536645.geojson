@@ -45,7 +45,7 @@
         "wk:page":"Sant_Miquel_de_Cru%C3%AFlles"
     },
     "wof:country":"ES",
-    "wof:geomhash":"6a8c16623fd9294c8623d3421a8e32a3",
+    "wof:geomhash":"2b4dad425d2381ede2411ddb68714799",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     3.0,
     41.95
 ],
-  "geometry": {"coordinates":[3.0,41.95],"type":"Point"}
+  "geometry": {"coordinates":[3,41.95],"type":"Point"}
 }

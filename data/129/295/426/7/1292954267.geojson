@@ -45,7 +45,7 @@
         "wk:page":"Teifaros"
     },
     "wof:country":"ES",
-    "wof:geomhash":"d930dd2cd765d1727b0eb12c0be063ab",
+    "wof:geomhash":"854a45d5f074b292c2c1832de7119ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     -6.69609,
     43.55459000000001
 ],
-  "geometry": {"coordinates":[-6.69609,43.55459000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.69609,43.55459],"type":"Point"}
 }

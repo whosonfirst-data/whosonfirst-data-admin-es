@@ -51,7 +51,7 @@
         "wk:page":"Villarmental"
     },
     "wof:country":"ES",
-    "wof:geomhash":"2a8a0375bdef1fe259cbb969baa78355",
+    "wof:geomhash":"8110454a0aa99e3b2be76f6108873f8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -6.49168,
     43.09979000000001
 ],
-  "geometry": {"coordinates":[-6.49168,43.09979000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.49168,43.09979],"type":"Point"}
 }

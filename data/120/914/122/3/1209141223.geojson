@@ -96,7 +96,7 @@
         "wk:page":"Dehesas_Viejas"
     },
     "wof:country":"ES",
-    "wof:geomhash":"6c4b5e22f5d2c68568fbae335101d84e",
+    "wof:geomhash":"75ad8effe6217b98e607394a2a83d3be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,5 +123,5 @@
     -3.55225,
     37.47414000000001
 ],
-  "geometry": {"coordinates":[-3.55225,37.47414000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.55225,37.47414],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Nembro_%28Goz%C3%B3n%29"
     },
     "wof:country":"ES",
-    "wof:geomhash":"b6b0d0b87b5e7a5aac069d0a8f912b56",
+    "wof:geomhash":"a989867c1939d5f1760d18dfe08f4957",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     -5.82181,
     43.60514000000001
 ],
-  "geometry": {"coordinates":[-5.82181,43.60514000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.82181,43.60514],"type":"Point"}
 }

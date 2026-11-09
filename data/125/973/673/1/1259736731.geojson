@@ -51,7 +51,7 @@
         "wk:page":"Fastias"
     },
     "wof:country":"ES",
-    "wof:geomhash":"c9196c5dd4e650c667437d1184b705f1",
+    "wof:geomhash":"c0dc6158c7609de30d165610c206090e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -6.44268,
     43.40519000000001
 ],
-  "geometry": {"coordinates":[-6.44268,43.40519000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.44268,43.40519],"type":"Point"}
 }

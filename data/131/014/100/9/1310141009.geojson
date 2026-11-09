@@ -115,7 +115,7 @@
         "wk:page":"Benquerencia"
     },
     "wof:country":"ES",
-    "wof:geomhash":"0e1b0ca3e0ad180eb479fd8257d89feb",
+    "wof:geomhash":"8692977aa001ab3ee9c4fea2bd0d061e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,5 +144,5 @@
     -6.08465,
     39.30994000000001
 ],
-  "geometry": {"coordinates":[-6.08465,39.30994000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.08465,39.30994],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Vall%C3%A9s_%28Villaviciosa%29"
     },
     "wof:country":"ES",
-    "wof:geomhash":"e4d51d3ed7ec50a197de34c6fcb12de5",
+    "wof:geomhash":"ec925573a3654efd6c860dea13653ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -5.35236,
     43.43559000000001
 ],
-  "geometry": {"coordinates":[-5.35236,43.43559000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.35236,43.43559],"type":"Point"}
 }

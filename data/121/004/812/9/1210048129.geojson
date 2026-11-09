@@ -114,7 +114,7 @@
         "wk:page":"Oia%2C_Spain"
     },
     "wof:country":"ES",
-    "wof:geomhash":"6352275566591cbca06a2c62f5560fe0",
+    "wof:geomhash":"ffa72aa793815feab42ab407869ab4de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,5 +141,5 @@
     -8.86667,
     42.0
 ],
-  "geometry": {"coordinates":[-8.86667,42.0],"type":"Point"}
+  "geometry": {"coordinates":[-8.86667,42],"type":"Point"}
 }

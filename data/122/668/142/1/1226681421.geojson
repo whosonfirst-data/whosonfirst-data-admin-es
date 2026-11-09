@@ -64,7 +64,7 @@
         "wk:page":"Salillas_de_Jal%C3%B3n"
     },
     "wof:country":"ES",
-    "wof:geomhash":"851dc9994d2af47fe08c819c47cc02eb",
+    "wof:geomhash":"7039228899a2e4c2c6f7bab815240669",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     -1.32344,
     41.56789000000001
 ],
-  "geometry": {"coordinates":[-1.32344,41.56789000000001],"type":"Point"}
+  "geometry": {"coordinates":[-1.32344,41.56789],"type":"Point"}
 }

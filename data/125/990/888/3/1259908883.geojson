@@ -54,7 +54,7 @@
         "wk:page":"Barriobusto"
     },
     "wof:country":"ES",
-    "wof:geomhash":"12dc57b16124f83e57445e29809177a1",
+    "wof:geomhash":"d0105eabd3087e1dd5d542d5f5479f67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     -2.43181,
     42.56800000000001
 ],
-  "geometry": {"coordinates":[-2.43181,42.56800000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.43181,42.568],"type":"Point"}
 }

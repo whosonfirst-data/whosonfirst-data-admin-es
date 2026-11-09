@@ -99,7 +99,7 @@
         "wk:page":"Prado%2C_Spain"
     },
     "wof:country":"ES",
-    "wof:geomhash":"2476cbb9daf4f5ab12c00c80b8a501c9",
+    "wof:geomhash":"13a282a468d37d24da697a88fbf29ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,5 +126,5 @@
     -5.42027,
     41.92077000000001
 ],
-  "geometry": {"coordinates":[-5.42027,41.92077000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.42027,41.92077],"type":"Point"}
 }

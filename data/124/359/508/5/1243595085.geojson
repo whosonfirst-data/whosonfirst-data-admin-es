@@ -59,7 +59,7 @@
         "gn:id":3123604
     },
     "wof:country":"ES",
-    "wof:geomhash":"d9b65b025d94919297beab3520f87e58",
+    "wof:geomhash":"7b4a630aced43b7e2ab84fedaa27cc5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     -5.89684,
     43.01289000000001
 ],
-  "geometry": {"coordinates":[-5.89684,43.01289000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.89684,43.01289],"type":"Point"}
 }

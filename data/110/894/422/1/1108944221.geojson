@@ -36,7 +36,7 @@
     "wof:concordances":{},
     "wof:country":"ES",
     "wof:created":1491364256,
-    "wof:geomhash":"c006b2630b5091d13cc73a5b899595d2",
+    "wof:geomhash":"f28a2eed9f4a4a45c9a79b3f792fd150",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,5 +64,5 @@
     -5.97907998955247,
     37.40919346322393
 ],
-  "geometry": {"coordinates":[-5.97907998955247,37.40919346322393],"type":"Point"}
+  "geometry": {"coordinates":[-5.97908,37.409193],"type":"Point"}
 }

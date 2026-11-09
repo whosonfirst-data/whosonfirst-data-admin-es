@@ -121,7 +121,7 @@
         "wk:page":"Garganta_la_Olla"
     },
     "wof:country":"ES",
-    "wof:geomhash":"8852bd0ebce3eb14919feff5487a7497",
+    "wof:geomhash":"c04171156e4a34d1bc951e4e8eb33c63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,5 +150,5 @@
     -5.77665,
     40.11049000000001
 ],
-  "geometry": {"coordinates":[-5.77665,40.11049000000001],"type":"Point"}
+  "geometry": {"coordinates":[-5.77665,40.11049],"type":"Point"}
 }

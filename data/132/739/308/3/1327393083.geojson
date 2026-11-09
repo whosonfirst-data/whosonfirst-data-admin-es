@@ -102,7 +102,7 @@
         "wk:page":"Javier%2C_Spain"
     },
     "wof:country":"ES",
-    "wof:geomhash":"03c4cb76877665652e7be83f338d9ce4",
+    "wof:geomhash":"a964c0e2bab616f4f547001773df08b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,5 +131,5 @@
     -1.20884,
     42.59119000000001
 ],
-  "geometry": {"coordinates":[-1.20884,42.59119000000001],"type":"Point"}
+  "geometry": {"coordinates":[-1.20884,42.59119],"type":"Point"}
 }

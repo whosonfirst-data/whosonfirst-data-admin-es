@@ -127,7 +127,7 @@
         "wk:page":"G%C3%A9nave"
     },
     "wof:country":"ES",
-    "wof:geomhash":"0aaa3e7b706595df63c76e3ea6500769",
+    "wof:geomhash":"69c57202a904e261d8b01975eae0ac61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,5 +156,5 @@
     -2.7331,
     38.43062000000001
 ],
-  "geometry": {"coordinates":[-2.7331,38.43062000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.7331,38.43062],"type":"Point"}
 }

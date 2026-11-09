@@ -57,7 +57,7 @@
         "wk:page":"Pi%C3%B1era_%28Navia%29"
     },
     "wof:country":"ES",
-    "wof:geomhash":"06d8cd0432fb799186bf3069c9b73391",
+    "wof:geomhash":"263d58e2b4591314fac6ebbe9e0c0f1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     -6.67138,
     43.54304000000001
 ],
-  "geometry": {"coordinates":[-6.67138,43.54304000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.67138,43.54304],"type":"Point"}
 }

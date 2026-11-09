@@ -57,7 +57,7 @@
         "wk:page":"Gobeo"
     },
     "wof:country":"ES",
-    "wof:geomhash":"704af6c04da031f918be1cea70c6533e",
+    "wof:geomhash":"ff9d664c904dedec579e8a5a5dbd1897",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     -2.71648,
     42.86324000000001
 ],
-  "geometry": {"coordinates":[-2.71648,42.86324000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.71648,42.86324],"type":"Point"}
 }

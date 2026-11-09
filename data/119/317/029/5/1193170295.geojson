@@ -117,7 +117,7 @@
         "wk:page":"P%C3%ADas"
     },
     "wof:country":"ES",
-    "wof:geomhash":"0132fac96d56d8358e701ea84a7ef525",
+    "wof:geomhash":"913b30736605fc32c12b57412d41c837",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,5 +144,5 @@
     -7.0,
     42.08333
 ],
-  "geometry": {"coordinates":[-7.0,42.08333],"type":"Point"}
+  "geometry": {"coordinates":[-7,42.08333],"type":"Point"}
 }

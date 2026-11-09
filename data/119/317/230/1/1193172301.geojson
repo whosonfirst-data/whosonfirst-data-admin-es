@@ -97,7 +97,7 @@
         "wk:page":"Monterrubio"
     },
     "wof:country":"ES",
-    "wof:geomhash":"010c56110c1455e8903629aacb994994",
+    "wof:geomhash":"70ddbbfd832f4f6aa2507581fe57978a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,5 +126,5 @@
     -4.35001,
     40.84914000000001
 ],
-  "geometry": {"coordinates":[-4.35001,40.84914000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.35001,40.84914],"type":"Point"}
 }

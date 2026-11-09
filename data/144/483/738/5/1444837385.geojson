@@ -40,7 +40,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"ES",
-    "wof:geomhash":"75d5dda0896d62532895e678c5aff828",
+    "wof:geomhash":"8cf270cd7cf038742c6c403ee7bbce9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     -4.34452155696945,
     36.71924905501538
 ],
-  "geometry": {"coordinates":[-4.34452155696945,36.71924905501538],"type":"Point"}
+  "geometry": {"coordinates":[-4.344522,36.719249],"type":"Point"}
 }

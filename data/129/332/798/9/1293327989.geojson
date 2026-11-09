@@ -111,7 +111,7 @@
         "wk:page":"Aldehuela_del_Codonal"
     },
     "wof:country":"ES",
-    "wof:geomhash":"3520ef9e232ed990c95d12dbe7ee3528",
+    "wof:geomhash":"57495e4fafa411d56c0067741a031e02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,5 +138,5 @@
     -4.53863,
     41.05504000000001
 ],
-  "geometry": {"coordinates":[-4.53863,41.05504000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.53863,41.05504],"type":"Point"}
 }

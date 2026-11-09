@@ -51,7 +51,7 @@
         "wk:page":"Lar%C3%B3n"
     },
     "wof:country":"ES",
-    "wof:geomhash":"437cbc78f9197c04c60f1784ce42275a",
+    "wof:geomhash":"fcaf87c8108105c1e4ff726f1fab4b66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -6.63036,
     42.98634000000001
 ],
-  "geometry": {"coordinates":[-6.63036,42.98634000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.63036,42.98634],"type":"Point"}
 }

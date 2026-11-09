@@ -48,7 +48,7 @@
         "wk:page":"Calleras"
     },
     "wof:country":"ES",
-    "wof:geomhash":"7026202ff03c2f8916e7d9f279198de0",
+    "wof:geomhash":"8296945a91529b7a885d3d378d4a2d24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     -6.47059,
     43.42254000000001
 ],
-  "geometry": {"coordinates":[-6.47059,43.42254000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.47059,43.42254],"type":"Point"}
 }

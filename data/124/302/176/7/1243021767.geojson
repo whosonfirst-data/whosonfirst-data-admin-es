@@ -54,7 +54,7 @@
         "wk:page":"Valduno"
     },
     "wof:country":"ES",
-    "wof:geomhash":"6cf6089dcbbe76ac252d7d7af026a260",
+    "wof:geomhash":"fb63ebe2f76216a6978dcaf64d058d34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     -6.0,
     43.4
 ],
-  "geometry": {"coordinates":[-6.0,43.4],"type":"Point"}
+  "geometry": {"coordinates":[-6,43.4],"type":"Point"}
 }

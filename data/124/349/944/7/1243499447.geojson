@@ -64,7 +64,7 @@
         "wk:page":"Ventosa%2C_Asturias"
     },
     "wof:country":"ES",
-    "wof:geomhash":"fcccc9540d479a4781a1b9413b7545f5",
+    "wof:geomhash":"15815c71c219a331e1eb1292f48825e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     -6.0,
     43.46667
 ],
-  "geometry": {"coordinates":[-6.0,43.46667],"type":"Point"}
+  "geometry": {"coordinates":[-6,43.46667],"type":"Point"}
 }

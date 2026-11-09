@@ -123,7 +123,7 @@
         "wk:page":"Vencill%C3%B3n"
     },
     "wof:country":"ES",
-    "wof:geomhash":"7d9a6b3135487186e83f9dcc3b60622a",
+    "wof:geomhash":"36528913a67e40261392fd43c334f366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,5 +150,5 @@
     0.32427,
     41.70502000000001
 ],
-  "geometry": {"coordinates":[0.32427,41.70502000000001],"type":"Point"}
+  "geometry": {"coordinates":[0.32427,41.70502],"type":"Point"}
 }

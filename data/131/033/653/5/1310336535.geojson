@@ -47,7 +47,7 @@
         "wk:page":"Numantia"
     },
     "wof:country":"ES",
-    "wof:geomhash":"d4ea0303e8cf1b7e85989666f6437ae0",
+    "wof:geomhash":"285ae1c1ff6d54884ea02efe2d7bd552",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     -2.44386,
     41.80804000000001
 ],
-  "geometry": {"coordinates":[-2.44386,41.80804000000001],"type":"Point"}
+  "geometry": {"coordinates":[-2.44386,41.80804],"type":"Point"}
 }

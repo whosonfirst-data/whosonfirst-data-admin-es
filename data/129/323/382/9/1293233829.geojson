@@ -45,7 +45,7 @@
         "wk:page":"Arroyo_de_Salas"
     },
     "wof:country":"ES",
-    "wof:geomhash":"83a975f2128c6de5217a66be6d306c73",
+    "wof:geomhash":"cc4e338893ca1e9a8d0c8d195028d162",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     -3.26883,
     42.07017000000001
 ],
-  "geometry": {"coordinates":[-3.26883,42.07017000000001],"type":"Point"}
+  "geometry": {"coordinates":[-3.26883,42.07017],"type":"Point"}
 }

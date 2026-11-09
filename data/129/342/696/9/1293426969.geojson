@@ -124,7 +124,7 @@
         "wk:page":"A_Peroxa"
     },
     "wof:country":"ES",
-    "wof:geomhash":"c27e808566e28f2a0b9671c7e0806c47",
+    "wof:geomhash":"fccf12ac4f488d1624ce953cd585b034",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,5 +151,5 @@
     -7.79454,
     42.44132000000001
 ],
-  "geometry": {"coordinates":[-7.79454,42.44132000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.79454,42.44132],"type":"Point"}
 }

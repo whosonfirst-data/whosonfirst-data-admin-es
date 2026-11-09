@@ -48,7 +48,7 @@
         "wk:page":"Cala_Bassa"
     },
     "wof:country":"ES",
-    "wof:geomhash":"4af943658ed6c3fe61ce6c9d687c9cc8",
+    "wof:geomhash":"fd65fe37f47ff3851dd69f1de48c5220",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     1.23545,
     38.96194000000001
 ],
-  "geometry": {"coordinates":[1.23545,38.96194000000001],"type":"Point"}
+  "geometry": {"coordinates":[1.23545,38.96194],"type":"Point"}
 }
