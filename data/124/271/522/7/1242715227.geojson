@@ -133,12 +133,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Lua"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5362\u963f\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8def\u4e9e\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682775,
@@ -164,7 +158,7 @@
         }
     ],
     "wof:id":1242715227,
-    "wof:lastmodified":1636503346,
+    "wof:lastmodified":1794999722,
     "wof:name":"Lua",
     "wof:parent_id":404338633,
     "wof:placetype":"locality",

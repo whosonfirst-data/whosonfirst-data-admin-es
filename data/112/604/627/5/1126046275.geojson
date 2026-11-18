@@ -181,9 +181,6 @@
     "name:war_x_preferred":[
         "San Juan"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u80e1\u5b89\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u8056\u80e1\u5b89"
     ],
@@ -243,7 +240,7 @@
         }
     ],
     "wof:id":1126046275,
-    "wof:lastmodified":1636503332,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Juan",
     "wof:parent_id":404339909,
     "wof:placetype":"locality",

@@ -97,12 +97,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Gallegos"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u52a0\u5229\u897f\u4e9a\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u52a0\u5217\u6208\u65af\u6cb3"
-    ],
     "qs:a0":"Spain",
     "qs:a1":"Segovia",
     "qs:a1_lc":"40",
@@ -153,7 +147,7 @@
         }
     ],
     "wof:id":404342455,
-    "wof:lastmodified":1696636938,
+    "wof:lastmodified":1794999722,
     "wof:name":"Gallegos",
     "wof:parent_id":85682839,
     "wof:placetype":"localadmin",

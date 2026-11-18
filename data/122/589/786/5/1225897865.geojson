@@ -124,12 +124,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Vina"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7ef4\u7eb3\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7dad\u5167\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85682805,
@@ -155,7 +149,7 @@
         }
     ],
     "wof:id":1225897865,
-    "wof:lastmodified":1636503354,
+    "wof:lastmodified":1794999722,
     "wof:name":"Vina",
     "wof:parent_id":404340305,
     "wof:placetype":"locality",
