@@ -10,8 +10,8 @@
     "geom:latitude":43.23891,
     "geom:longitude":-2.930848,
     "iso:country":"ES",
-    "lbl:latitude":43.248489,
-    "lbl:longitude":-2.931843,
+    "lbl:latitude":43.2362,
+    "lbl:longitude":-2.928313,
     "lbl:max_zoom":18.0,
     "mps:latitude":43.236247,
     "mps:longitude":-2.928423,
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         404345949,
